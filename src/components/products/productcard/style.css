@@ -1,0 +1,25 @@
+img {
+    display: block;
+    width: 200px;
+    margin: auto;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.flex-box {
+    width: 250px;
+    margin: auto;
+}
+
+.flex-box hr {
+    width: 200px;
+}
+
