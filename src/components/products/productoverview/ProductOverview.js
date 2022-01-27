@@ -3,7 +3,7 @@ import axios from 'axios';
 
 import ProductCard from '../productcard/ProductCard';
 
-import style from './style.css';
+import './style.css';
 
 function ProductOverview() {
 	const [products, setProducts] = useState([]);
